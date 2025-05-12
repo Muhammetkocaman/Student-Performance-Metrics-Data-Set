@@ -9,7 +9,7 @@ Bu proje, https://data.mendeley.com/datasets/5b82ytz489/1  veri setini kullanara
 ## Metodoloji
 1.  **Veri Yükleme ve Keşif:** Veri seti inceledim, sütunlar ve veri tipleri anladım.
 2.  **Veri Ön İşleme:** Kategorik sosyal faktörler (örn: "Düşük Gelir") sayısal değerlere (örn: 0, 1) dönüştürdüm. Eksik verileri kontrol edip  varsa düzeltmeye çalıştım.
-3.  **Analiz:** `groupby()` ile her sosyal faktörün farklı seviyelerindeki öğrencilerin ortalama başarıları (CGPA) hesapladım.
+3.  **Analiz:**  her sosyal faktörün farklı seviyelerindeki öğrencilerin ortalama başarıları (CGPA) hesapladım.
 4.  **Yorumlama:** Sayısal sonuçlar üzerinden mantıksal çıkarımlar yapmaya çalıştım
 
 ##  Bu veri setine göre analiz sonucu
