@@ -1,4 +1,4 @@
-# Öğrenci Başarısı ve Sosyal Faktörler Analizi
+# 🎓 Öğrenci Başarısı ve Sosyal Faktörler Analizi
 
 Bu proje, https://data.mendeley.com/datasets/5b82ytz489/1  veri setini kullanarak üniversite öğrencilerinin akademik başarısını (CGPA) etkileyen sosyal faktörleri (gelir, çalışma süresi, bilgisayar yetkinliği vb.)  analiz ettim
 
@@ -6,13 +6,13 @@ Bu proje, https://data.mendeley.com/datasets/5b82ytz489/1  veri setini kullanara
 
 
 
-## Metodoloji
+## 🛠️ Metodoloji
 1.  **Veri Yükleme ve Keşif:** Veri seti inceledim, sütunlar ve veri tipleri anladım.
 2.  **Veri Ön İşleme:** Kategorik sosyal faktörler (örn: "Düşük Gelir") sayısal değerlere (örn: 0, 1) dönüştürdüm. Eksik verileri kontrol edip  varsa düzeltmeye çalıştım.
 3.  **Analiz:**  her sosyal faktörün farklı seviyelerindeki öğrencilerin ortalama başarıları (CGPA) hesapladım.
 4.  **Yorumlama:** Sayısal sonuçlar üzerinden mantıksal çıkarımlar yapmaya çalıştım
 
-##  Bu veri setine göre analiz sonucu
+## 📊  Bu veri setine göre analiz sonucu
 Öncelikle, devam oranının başarı üzerinde belirgin bir etkisi olduğu görülüyor. Özellikle %80-100 oranında derse devam eden öğrencilerin ortalama notu 3.58 iken, %40’ın altında devam edenlerde bu ortalama 1.78’e kadar düşüyor.
 
 <img width="404" alt="Ekran Resmi 2025-05-09 16 46 41" src="https://github.com/user-attachments/assets/1967c66a-0333-4c31-9d35-39761c087eaa" />
@@ -38,6 +38,19 @@ Son olarak, ekstra etkinliklere katılımın da akademik başarıyı olumlu yön
 
 
 <img width="511" alt="Ekran Resmi 2025-05-09 16 48 23" src="https://github.com/user-attachments/assets/31b1f060-8890-48fc-a32c-7bcb714125a6" />
+
+## ✅ Öneriler
+
+Ders Devamlılığı artırılmalı, yoklamalar teşvik edici hale getirilmeli.
+
+
+Zaman Yönetimi konusunda öğrenciler yönlendirilmeli, özellikle dijital oyun süresi dengelenmeli.
+
+ 
+Kırsal bölgelerdeki öğrencilere kaynak ve mentorluk desteği sağlanmalı.
+
+
+Etkinliklere katılım teşvik edilmeli, sosyal becerilerin başarıya etkisi desteklenmeli.
 
 
 ---
